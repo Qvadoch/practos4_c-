@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\bin\Debug\practos4.exe.config
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\bin\Debug\practos4.exe
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\bin\Debug\practos4.pdb
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\App.g.cs
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4_MarkupCompile.cache
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4_MarkupCompile.lref
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.g.resources
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.Properties.Resources.resources
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.csproj.GenerateResource.cache
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.exe
+C:\Users\Дмитрий\OneDrive\College\Второй курс\Иконникова Основы алгоритмизации и программирования\Практосы\practos4\obj\Debug\practos4.pdb
